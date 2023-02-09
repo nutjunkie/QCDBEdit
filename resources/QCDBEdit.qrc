@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>icons/Down.png</file>
+    <file>icons/Up.png</file>
+    <file>icons/Add.png</file>
+    <file>icons/Delete.png</file>
+  </qresource>
+  <qresource prefix="/" >
+    <file>QCDBEdit.icns</file>
+    <file>QCDBEdit.png</file>
+  </qresource>
+  <qresource prefix="/" >
+    <file alias="imageCritical" >qmsgbox/critical.png</file>
+    <file alias="imageInformation" >qmsgbox/information.png</file>
+    <file alias="imageQuestion" >qmsgbox/question.png</file>
+    <file alias="imageWarning" >qmsgbox/warning.png</file>
+  </qresource>
+</RCC>
